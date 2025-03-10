@@ -1,5 +1,4 @@
-# Ejercicios Iniciales C++
-
+# Ejercicios
 Resuelve los siguientes ejercicios para familiarizarte con C++.
 
 Puedes usar el siguiente código como plantilla para los ejercicios.
